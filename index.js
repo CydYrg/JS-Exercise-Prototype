@@ -25,7 +25,7 @@ function Airplane(name) {
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
   */
-  
+ /* FIRST ATTEMPT */ 
   /*
     TASK 1
       - Write a Person Constructor that initializes `name` and `age` from arguments.
